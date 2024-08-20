@@ -1,15 +1,20 @@
-<h1>Hi there! 👋 I'm Riya Maurya</h1>
-    <p>I'm a BCA student passionate about web development and graphic design.</p>
-    <h2>🌱 Currently Learning:</h2>
+ <h1>Personal Finance Tracker</h1>
+
+    <p>The Personal Finance Tracker app is designed to help users manage their finances effectively by tracking income, expenses, and budgets. This app provides an easy-to-use interface to monitor and analyze financial activities, helping users stay on top of their financial goals.</p>
+
+    <h2>Team Members</h2>
     <ul>
-        <li><strong>JavaScript</strong> and <strong>React.js</strong></li>
-        <li><strong>Java</strong> programming</li>
+        <li>Riya Maurya</li>
+        <li>Sonali</li>
+        <li>Sweety</li>
+        <li>Shruti</li>
     </ul>
 
-    <h2>💼 Skills:</h2>
+    <h2>Key Features</h2>
     <ul>
-        <li><strong>Web Development: HTML, CSS, JavaScript</strong></li>
-        <li><strong>Graphic Design: Logo and graphic creation</strong></li>
+        <li>User Authentication: Sign up, log in, log out, and password recovery.</li>
+        <li>Dashboard: Summary of finances and recent transactions.</li>
+        <li>Income and Expense Tracking: Add, edit, delete, and categorize transactions.</li>
+        <li>Budgeting: Set and track monthly or yearly budgets.</li>
+        <li>Reports and Analytics: Visual charts and filtered reports by date range.</li>
     </ul>
-
-    <p>Let's connect and collaborate on exciting projects!</p>
